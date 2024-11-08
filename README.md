@@ -32,27 +32,37 @@ Ketiga Gambar diatas merupakan Flowchart dari program yang kami buat
 Gambar diatas merupakan menu awal dari program kami yang dimana terdapat 3 pilihan dan terdapat out put jika memilih selaindari 3 pilihan di atas
 
 ### penjelasan Pilihan
+# 1) Jika memilih menu no 1
 
 ![image](https://github.com/user-attachments/assets/e4d3b30d-7fad-4459-9eb0-f1443d4293d0)
 
-1) Jika memilih menu no 1 maka akan menampilkan login admin yang dimana kita disuruh untuk melakukan input username dan password dan akan mengecek role apakah yang dimiliki user jika role = user makan akan menampilkan menu user dan jika role = admin akan menampilkan menu admin
+maka akan menampilkan login admin yang dimana kita disuruh untuk melakukan input username dan password dan akan mengecek role apakah yang dimiliki user jika role = user makan akan menampilkan menu user dan jika role = admin akan menampilkan menu admin
+
+#  2) Jika memilih menu no 2
 
 ![image](https://github.com/user-attachments/assets/b50587ec-6945-4d69-a89b-0fca02ebdcb1)
 
- 2) Jika memilih menu no 2 maka akan memanggil fungsi register
+maka akan memanggil fungsi register
+
+#  3) jika memilih menu no 3
 
 ![image](https://github.com/user-attachments/assets/8c58d5fe-f191-46b9-844f-bc6d542ba0f3)
 
- 3) jika memilih menu no 3 maka program akan dihentikan
+maka program akan dihentikan
 
  ## Penjelasan lebih dalam tentang fungsi registrasi
+
+# 1) input nama dan password
+ 
  ![image](https://github.com/user-attachments/assets/1faaf561-31cb-45b1-9326-be2992165407)
   
-1) pertama-tama akan kalian akan disuruh untuk melakukan input username dan password
+pertama-tama akan kalian akan disuruh untuk melakukan input username dan password
+
+# 2) input saldo
 
 ![image](https://github.com/user-attachments/assets/58ceea92-5430-4ff0-9892-0489c5a96969)
 
-2) selanjutnya memasukan saldo untuk melakukan pembelian nantinya
+selanjutnya memasukan saldo untuk melakukan pembelian nantinya
 
 ![image](https://github.com/user-attachments/assets/07b97912-1bfa-4c08-a177-eef00b1d78f0)
 
