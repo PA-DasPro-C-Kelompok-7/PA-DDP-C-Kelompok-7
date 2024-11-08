@@ -15,6 +15,46 @@ NIM = 2409116101
 Nama = Dimas Aji Mukti
 NIM =2409116107
 
+# DESKRIPSI PROGRAM
+Program ini merupakan program sistem pemesanan tiket wisata yang dimana terdapat dua role yakni admin dan user,yang dimana user dapat melihat daftar wisata, melakukan pemesanan, isi saldo, dan melihat saldo yang dimiliki, sedangkan admin dapat melakukan CRUD
+
+# FITUR ADMIN
+
+### 1) Tambah daftar wisata
+### 2) Mengubah daftar wisata
+### 3) Hapus wisata
+### 4) lihat daftar wisata
+
+# FITUR USER
+
+### 1) Melihat daftar wisata
+### 2) Memesan tiket
+### 3) Mengisi saldo / top up
+### 4) Mengecek saldo yang dimiliki
+
+# LIBRARY
+
+### Prettytable 
+
+Digunakan untuk membuat tampilan tabel yang rapi dalam konsol.
+
+### Os 
+
+Digunakan untuk membersihkan layar konsol dengan perintah "cls" atau "clear" tergantung pada sistem operasi.
+
+### Pwinput 
+
+Menggunakan library ini untuk mengambil kata sandi dari Pengguna tanpa menampilkan teks yang dimasukkan (untuk keamanan).
+
+### Time
+
+Digunakan untuk mengelola waktu dalam program, seperti menampilkan waktu saat ini dan menambahkan waktu jeda pada program.
+
+### Json 
+
+Digunakan untuk membaca dan menulis data dalam format JSON.
+
+
 # FLOWCHART
 ![image](https://github.com/user-attachments/assets/62234ac2-3ab7-43d7-ba41-0b22d6b347e6)
 
