@@ -1,0 +1,26 @@
+{
+    "1": {
+        "name": "Pantai Kuta",
+        "price": 30000
+    },
+    "2": {
+        "name": "Gunung Bromo",
+        "price": 50000
+    },
+    "3": {
+        "name": "Candi Borobudur",
+        "price": 20000
+    },
+    "4": {
+        "name": "Pulau Komodo",
+        "price": 80000
+    },
+    "5": {
+        "name": "Lake Toba",
+        "price": 60000
+    },
+    "6": {
+        "name": "Pulau Kumala",
+        "price": 43000
+    }
+}
